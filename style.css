@@ -344,6 +344,46 @@ padding:2px;
 .column hover{
      box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
 }
+.blog2-item{
+	display:flex;
+	 justify-content:center;
+}
+.blog2-item h3{
+	text-align: left;
+	float: center;
+	font-size: 20px;
+    font-weight: 600;
+}
+ .blog2-item p{
+	text-align: left;
+	
+}
+
+.blog2-item img{
+	margin-right:1rem;
+		float: left;
+}
+.blog2-item p{
+padding:2px;
+}
+.blog2-item h1{
+     text-align: center;
+}
+.column{
+	 margin-top: 3%;
+	 width:90%;
+     justify-content: space-between;
+     background: #fff3f3;
+     border-radius: 5px;
+     margin-bottom: 5%;
+     padding: 20px 20px;
+     box-sizing: border-box;
+     transition: 0.5s;
+}
+.column hover{
+     box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
+}
+
 
 
 .dreams h3, .dreams p{
