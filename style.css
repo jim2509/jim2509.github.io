@@ -341,6 +341,17 @@ padding:2px;
      box-sizing: border-box;
      transition: 0.5s;
 }
+.column1{
+     margin-top: 3%;
+     width:90%;
+    justify-content: space-between;
+    background: #fff3f3;
+    border-radius: 5px;
+    margin-bottom: 5%;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    transition: 0.5s;
+}
 .column hover{
      box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
 }
