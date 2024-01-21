@@ -4,8 +4,8 @@
      padding: 0;
      font-family: 'Montserrat', sans-serif;
 }
-body{
-	margin-bottom: 8rem;
+ body{
+     margin-bottom: 8rem;
 }
  .header{
      min-height: 100vh;
@@ -125,7 +125,6 @@ body{
  .dreams{
      background: #F2E7D5;
      min-height: 70vh;
- 
      background-position: center;
      background-size: cover;
      position:relative;
@@ -232,7 +231,6 @@ body{
  .layer:hover .mycaption{
      opacity:1;
      bottom:49%;
-
 }
  .photo-grid-item{
      position:relative;
@@ -294,71 +292,41 @@ body{
      color: #bbb;
 }
 /*---------------blog------*/
-
-.blog{
+ .blog{
      background: #F2E7D5;
      width: 100%;
      background-position: center;
      background-size: cover;
      position:relative;
-	 text-align:left;
-	 
-	 padding-top:1rem;
+     text-align:left;
+     padding-top:1rem;
 }
-.blog-item{
-	display:flex;
-	 justify-content:center;
+ .blog-item{
+     display:flex;
+     justify-content:center;
 }
-h3{
-	text-align: left;
-	float: center;
-	font-size: 20px;
-    font-weight: 600;
+ h3{
+     text-align: left;
+     float: center;
+     font-size: 20px;
+     font-weight: 600;
 }
  .blog-item p{
-	text-align: left;
-	
+     text-align: left;
 }
-
-.blog img{
-	margin-right:1rem;
-		float: left;
+ .blog img{
+     margin-right:1rem;
+     float: left;
 }
-.blog p{
-padding:2px;
+ .blog p{
+     padding:2px;
 }
-.blog h1{
+ .blog h1{
      text-align: center;
 }
-.column{
-	 margin-top: 3%;
-	 width:90%;
-     justify-content: space-between;
-     background: #fff3f3;
-     border-radius: 5px;
-     margin-bottom: 5%;
-     padding: 20px 20px;
-     box-sizing: border-box;
-     transition: 0.5s;
-}
-.column1{
+ .column{
      margin-top: 3%;
      width:90%;
-    justify-content: space-between;
-    background: #fff3f3;
-    border-radius: 5px;
-    margin-bottom: 5%;
-    padding: 20px 20px;
-    box-sizing: border-box;
-    transition: 0.5s;
-}
-.column hover{
-     box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
-}
-
-.column1{
-	 margin-top: 3%;
-	 width:90%;
      justify-content: space-between;
      background: #fff3f3;
      border-radius: 5px;
@@ -367,14 +335,35 @@ padding:2px;
      box-sizing: border-box;
      transition: 0.5s;
 }
-.column hover{
+ .column1{
+     margin-top: 3%;
+     width:90%;
+     justify-content: space-between;
+     background: #fff3f3;
+     border-radius: 5px;
+     margin-bottom: 5%;
+     padding: 20px 20px;
+     box-sizing: border-box;
+     transition: 0.5s;
+}
+ .column hover{
      box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
 }
-
-
-
-.dreams h3, .dreams p{
-	text-align:center;
-	
+ .column1{
+     margin-top: 3%;
+     width:90%;
+     justify-content: space-between;
+     background: #fff3f3;
+     border-radius: 5px;
+     margin-bottom: 5%;
+     padding: 20px 20px;
+     box-sizing: border-box;
+     transition: 0.5s;
 }
-	
+ .column hover{
+     box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
+}
+ .dreams h3, .dreams p{
+     text-align:center;
+}
+ 
