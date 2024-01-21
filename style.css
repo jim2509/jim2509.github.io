@@ -257,10 +257,13 @@
      background-position: center;
      background-size: cover;
      position:relative;
-     margin-top: 0rem;
-     margin-bottom: 0rem;
      padding-top: 3rem;
      padding-bottom: 3rem;
+}
+.contact-div{
+
+    margin-top: 0rem;
+    margin-bottom: 0rem;
 }
  .icons .fa{
      color:#f44336;
