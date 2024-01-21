@@ -257,7 +257,8 @@
      background-position: center;
      background-size: cover;
      position:relative;
-     margin-top: 5rem;
+     margin-top: 0rem;
+     margin-bottom: 0rem;
      padding-top: 3rem;
 }
  .icons .fa{
