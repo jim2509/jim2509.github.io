@@ -190,8 +190,8 @@
      width: 80%;
      margin: auto;
      text-align: center;
-     padding-top: 50px;
-     padding-bottom: 50px;
+     padding-top: 30px;
+     padding-bottom: 30px;
 }
  p{
      text-align: center;
@@ -259,8 +259,8 @@
      background-position: center;
      background-size: cover;
      position:relative;
-     padding-top: 3rem;
-     padding-bottom: 3rem;
+     padding-top: 5rem;
+     padding-bottom: 5rem;
 }
 
  .icons .fa{
