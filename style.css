@@ -372,8 +372,9 @@
 .copyright{
     text-align: center;
     text-decoration-color: #bbb;
-    margin-top: 2rem;
     padding-top: 2rem;
+    padding-bottom: 1rem;
+    margin-bottom: 0%;
 }
 
 
